@@ -95,7 +95,7 @@ import {
               top={'-20%'}
               left={0}
               zIndex={-1}
-              color={useColorModeValue('#CDF4CE')}
+              color={useColorModeValue('#CDF4CE', 'darkModeColor')}
               
             />
             <Box   
