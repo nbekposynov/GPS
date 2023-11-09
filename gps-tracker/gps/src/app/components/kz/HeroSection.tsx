@@ -68,7 +68,7 @@ import {
 
             Жүйе GPS трекерлерін оффлайн режимінде бақылау арқылы көлік құралдары мен оған қосылған басқа жабдықтардың мониторингін қамтамасыз етуге арналған.            </Text>
             <Stack spacing={{ base: 4, sm: 6 }} direction={{ base: 'column', sm: 'row' }}>
-            <Link href="https://track.orman-gps.kz">
+            <Link href="https://track.ormankz-gps.kz">
               <Button
                 rounded={'full'}
                 size={'lg'}

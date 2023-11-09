@@ -67,7 +67,7 @@ import {
 
             Система предназначена для обеспечения мониторинга транспортных средств и другого подключенного к ней оборудования путем отслеживания с помощью GPS-трекеров в оффлайн режиме.            </Text>
             <Stack spacing={{ base: 4, sm: 6 }} direction={{ base: 'column', sm: 'row' }}>
-            <Link href="https://track.orman-gps.kz">
+            <Link href="https://track.ormankz-gps.kz">
               <Button
                 rounded={'full'}
                 size={'lg'}

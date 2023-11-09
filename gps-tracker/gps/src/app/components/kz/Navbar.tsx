@@ -69,7 +69,7 @@ export default function Navbar() {
           justify={'flex-end'}
           direction={'row'}
           spacing={6}>              
-          <Link href="https://track.orman-gps.kz">
+          <Link href="https://track.ormankz-gps.kz">
           <Button
             display={{ base: 'none', md: 'inline-flex' }}
             fontSize={'sm'}
